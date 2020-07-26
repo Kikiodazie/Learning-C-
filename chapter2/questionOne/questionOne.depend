@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595612849 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/Project/chapter2/questionOne/main.cpp
+	<iostream>
+
+1595425037 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/Project/chapter2/questionOne/functions.cpp
+	<iostream>
+	<cmath>
+
